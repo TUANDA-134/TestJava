@@ -1,0 +1,46 @@
+h1{
+    color: red;
+    font-style: italic;
+    font-size: 50;
+    
+}
+.Tuan .Tuan1{
+    color: green;
+}
+div.Tuan2{
+color: blue;
+}
+.Tuan3{
+    color: greenyellow;
+}
+div>p{
+    color: grey;
+}
+.Box{
+    width: 100%;
+    height: 30%;
+    background-image: linear-gradient(to right,rgb(240,214,217), rgb(236,198,211),rgb(231,171,196),rgb(219,142,178),rgb(183,57,118),rgb(156,12,84));
+    color: hotpink;
+}
+.Box .hai
+{
+    color: white;
+    text-align: center;
+    text-shadow: violet;
+    text-align-last: center;
+    text-decoration-line: line-through;
+}
+div>p{
+    color:white;
+    background-color: blue;
+}
+.idd{
+    color:aqua;
+}
+div.thu{
+    background-color:black;
+    color:white;
+}
+.nav div div{
+    background-color: aquamarine;
+}
